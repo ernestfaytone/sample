@@ -1,5 +1,5 @@
 # Setting up backend (Laravel)
--cd backend </br>
+`cd backend` </br>
 -composer install </br>
 -php artisan mysql:createdb sample_project </br>
 -php artisan migrate </br>
