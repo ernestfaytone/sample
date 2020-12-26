@@ -1,12 +1,12 @@
 # Setting up backend (Laravel)
--cd backend
--composer install
--php artisan mysql:createdb sample_project
--php artisan migrate
--php artisan serve
+-cd backend </br>
+-composer install </br>
+-php artisan mysql:createdb sample_project </br>
+-php artisan migrate </br>
+-php artisan serve </br>
 
 
 # Setting up frontend (Angular)
--cd frontend
--npm install
--ng serve
+-cd frontend </br>
+-npm install </br>
+-ng serve </br>
