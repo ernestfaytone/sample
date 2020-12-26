@@ -10,3 +10,6 @@
  cd frontend </br>
 `npm install` </br>
 `ng serve` </br>
+
+
+App: `localhost:4200`
